@@ -1,0 +1,32 @@
+- name: "Manojkumar Rao"
+  dob:"1999-01-01"
+  mobilenumber: 1234567890
+  adresses:
+  -flatnumber: 104
+   street: "gandhi nagar"
+   city: "hyderabad"
+   type: current
+
+ -flatnumber: 104
+   street: "gandhi nagar"
+   city: "hyderabad"
+   type: permanent
+   
+
+-name: "Sanjana Rao"
+  dob:"1999-01-01"
+  mobilenumber: 1234567890
+  adresses:
+  -flatnumber: 104
+   street: "gandhi nagar"
+   city: "hyderabad"
+   type: current
+
+ -flatnumber: 104
+   street: "gandhi nagar"
+   city: "hyderabad"
+   type: permanent
+   
+
+
+

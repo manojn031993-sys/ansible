@@ -1,0 +1,51 @@
+{
+    "students": [
+
+        "firstName": "ManojKumar Rao",
+        "dob":"1991-01-01",
+   
+    
+    "adresses": [
+        {
+            "type": "perm",
+            "flat Number": 104,
+            "street": "gandhi nagar",
+            "city": "hyderabad"
+        },
+        {
+            "type": "current",
+            "flat Number": 104,
+            "street": "gandhi nagar",
+            "city": "hyderabad"
+        }
+
+    ],
+    "skills": ["java", "devops", "cloud"]
+},
+      {
+        
+
+        "firstName": "Sanjana Rao",
+        "dob":"1991-01-01",
+   
+    
+    "adresses": [
+        {
+            "type": "perm",
+            "flat Number": 104,
+            "street": "gandhi nagar",
+            "city": "hyderabad"
+        },
+        {
+            "type": "current",
+            "flat Number": 104,
+            "street": "gandhi nagar",
+            "city": "hyderabad"
+        }
+
+    ],
+    "skills": ["java", "devops", "cloud"]
+        
+}
+
+
